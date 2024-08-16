@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
+| [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
