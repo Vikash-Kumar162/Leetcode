@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
