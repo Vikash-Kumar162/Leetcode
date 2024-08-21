@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
@@ -78,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
