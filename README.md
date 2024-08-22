@@ -86,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
