@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
