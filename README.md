@@ -91,14 +91,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
