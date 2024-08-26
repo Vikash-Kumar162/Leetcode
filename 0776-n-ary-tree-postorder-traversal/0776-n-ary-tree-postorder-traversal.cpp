@@ -28,7 +28,7 @@ void traversal(Node* root, vector<int> &postorder){
     // traversal(root_children, postorder);
     // postorder.push_back(root->val);
 
-        for(Node* x : root->children) {
+        for(Node*& x : root->children) {
             traversal(x, postorder);
         }
         
