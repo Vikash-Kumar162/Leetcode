@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
