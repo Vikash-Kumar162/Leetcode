@@ -4,12 +4,7 @@ public:
         string num = "";
         for(int i=0; i<s.size(); i++){
             int val = s[i] - 'a' + 1;
-            if(val >= 10){
-                num += to_string(val);
-            }
-            else{
-                num += val + '0';
-            }
+            num += to_string(val);
         }
         while(k --){
             int sum = 0;
@@ -18,7 +13,6 @@ public:
             }
             num = to_string(sum);
         }
-        int ans = stoi(num);
-        return ans;
+        return stoi(num);
     }
 };
