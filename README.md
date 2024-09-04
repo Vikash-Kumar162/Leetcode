@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
+| [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
