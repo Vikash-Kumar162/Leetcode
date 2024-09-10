@@ -27,10 +27,13 @@ int GCD(int a, int b){
         ListNode* nextNode = head->next;
         ListNode* prev = head;
         while(nextNode != NULL){
-            int gcdVal = GCD(prev->val, nextNode->val);
+            // int gcdVal = GCD(prev->val, nextNode->val);
+            int gcdVal = __gcd(prev->val, nextNode->val);
+
             ListNode* curr = new ListNode(gcdVal);
             curr->next = nextNode;
             prev->next = curr;
+
             // Now move prev and nextNdoe
 
             prev = nextNode;
