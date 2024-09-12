@@ -1,21 +1,25 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int consistent = 0;
-        for(int i=0; i<words.size(); i++){
-            string word = words[i];
-            bool found = true;
-            for(int j=0; j<word.size(); j++){
-                if((allowed.find(word[j])) == string::npos){
-                    found = false;
+        // Using Bit Manipulation
+
+        int mask = 0;  // 00000000....0000
+        for(char &ch : allowed){
+            mask |= (1 << (ch - 'a'));
+        }
+        int count = 0;
+        for(string &word : words){
+            bool allCharPresent = true;
+            for(char &ch : word){
+                if(((mask >> (ch - 'a')) & 1) == 0){
+                    allCharPresent = false;
                     break;
                 }
             }
-            if(found == 1){
-                consistent ++;
-                // cout<<consistent<<endl;
+            if(allCharPresent){
+                count ++;
             }
         }
-        return consistent;
+        return count;
     }
 };
