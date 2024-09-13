@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
