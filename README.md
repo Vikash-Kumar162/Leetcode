@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Union Find
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
