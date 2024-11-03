@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0567-permutation-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
