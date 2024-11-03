@@ -5,12 +5,10 @@ public:
         if(s.size() != goal.size()){
             return false;
         }
-        int i = 0;
-        while(i < s.size()){
-            rotate(s.begin(), s.begin()+1, s.end());
-            if(s == goal) return true;
-            i ++;
+        s += s;
+        if(s.find(goal) == string::npos){
+            return false;
         }
-        return false;
+        return true;
     }
 };
