@@ -7,13 +7,8 @@ public:
         }
         int i = 0;
         while(i < s.size()){
-            char ch = s.front();
-            // s.pop_front();
-            s.erase(s.begin());
-            s.push_back(ch);
-            if(s == goal){
-                return true;
-            }
+            rotate(s.begin(), s.begin()+1, s.end());
+            if(s == goal) return true;
             i ++;
         }
         return false;
