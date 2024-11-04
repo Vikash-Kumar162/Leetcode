@@ -5,13 +5,13 @@ public:
         for(int i=0; i<word.size(); ){
             char ch = word[i];
             int count = 0;
-            int j = i;
-            while(j < word.size() && (word[j] == ch) && count < 9){
+            // int j = i;
+            while(i < word.size() && (word[i] == ch) && count < 9){
                 count ++;
-                j++;
+                i++;
             }
             comp += to_string(count) + ch;
-            i = j;
+            // i = j;
         }
         return comp;
     }
