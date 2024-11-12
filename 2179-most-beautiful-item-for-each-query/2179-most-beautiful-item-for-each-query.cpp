@@ -1,11 +1,11 @@
 class Solution {
 public:
-static bool comp(vector<int> &a, vector<int> &b){
-    if(a[0] == b[0]){
-        return a[1] < b[1];
-    }
-    return a[0] < b[0];
-}
+// static bool comp(vector<int> &a, vector<int> &b){
+//     if(a[0] == b[0]){
+//         return a[1] < b[1];
+//     }
+//     return a[0] < b[0];
+// }
 int binarySearch(vector<vector<int>>& items, int currPrice){
     int maxBeauty = 0;
     int s = 0, e = items.size() - 1;
@@ -23,7 +23,7 @@ int binarySearch(vector<vector<int>>& items, int currPrice){
 }
     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
         vector<int> ans;
-        sort(items.begin(), items.end(), comp);
+        sort(items.begin(), items.end());
 
         // update for maxBeauty seen far in the items array
         int maxB = items[0][1];
