@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0567-permutation-in-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
