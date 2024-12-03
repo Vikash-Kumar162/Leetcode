@@ -13,8 +13,7 @@ public:
                 res += ' ';
                 
             }
-            
-                res += s[i];
+            res += s[i];
 
         }
         return res;
