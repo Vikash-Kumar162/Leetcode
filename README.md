@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
+| [0494-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -256,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
