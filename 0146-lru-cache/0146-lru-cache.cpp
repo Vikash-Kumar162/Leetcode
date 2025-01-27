@@ -1,44 +1,50 @@
 class LRUCache {
 public:
-    list<int> dll; //it contains the key
-    map<int, pair<list<int>::iterator, int>> cache; //key->(list_node, value)
-    int capacity;
-    
+  list<int> dll;
+  unordered_map<int, pair<list<int>::iterator, int>> mp;
+  int n;
     LRUCache(int capacity) {
-        this->capacity = capacity;
+        n = capacity;
     }
-    
-    void makeMostRecentlyUsed(int key) {
-        dll.erase(cache[key].first);
-        dll.push_front(key);
-        cache[key].first = dll.begin();
-    }
-    
-    int get(int key) {
-        if(!cache.count(key))
-            return -1;
+
+    void makeRecentlyUsed(int key){
+        dll.erase(mp[key].first);
         
-        makeMostRecentlyUsed(key);
-        return cache[key].second;
+        dll.push_front(key);
+        mp[key].first = dll.begin();
+    }
+
+    int get(int key) {
+        if(mp.find(key) == mp.end()){
+            return -1;
+        }
+        
+        makeRecentlyUsed(key);
+        
+        return mp[key].second;
     }
     
     void put(int key, int value) {
-        if(cache.count(key)) {
-            cache[key].second = value;
-            makeMostRecentlyUsed(key);
-        } else {
+        if(mp.find(key) != mp.end()){
+            mp[key].second = value;
+            makeRecentlyUsed(key);
+        }
+        else{
             dll.push_front(key);
-            cache[key] = {dll.begin(), value};
-            capacity--;
+            mp[key] = {dll.begin(), value};
+            n --;
         }
         
-        if(capacity < 0) {
-            cache.erase(dll.back());
+        if(n < 0){
+            int key_tobe_del = dll.back();
+            mp.erase(key_tobe_del);
+            
             dll.pop_back();
-            capacity++;
+            n++;
         }
-    }
+    }    
 };
+
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache* obj = new LRUCache(capacity);
