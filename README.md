@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Breadth-First Search
 |  |
@@ -280,8 +282,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0146-lru-cache) |
+| [2434-design-a-number-container-system](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0146-lru-cache) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
