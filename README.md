@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0031-next-permutation) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0179-largest-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1250-longest-common-subsequence) |
