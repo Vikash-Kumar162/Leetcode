@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1014-k-closest-points-to-origin](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
