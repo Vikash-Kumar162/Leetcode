@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3447-clear-digits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2211-count-collisions-on-a-road](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2211-count-collisions-on-a-road](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
