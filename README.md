@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0906-walking-robot-simulation](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1014-k-closest-points-to-origin](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
