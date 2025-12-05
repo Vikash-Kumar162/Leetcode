@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3451-string-compression-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Database
 |  |
 | ------- |
