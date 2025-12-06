@@ -17,7 +17,7 @@ public:
 
         long long int ans = 0;
         for (int i = 1; i <= k; i++) {
-            if (target - i >= 0)
+            // if (target - i >= 0)
                 ans += (numRollsToTargetMem(n - 1, k, target - i, dp)) % MOD;
         }
         return dp[n][target] = ans % MOD;
@@ -59,10 +59,10 @@ public:
 
         // MEMOISATION
 
-        // vector<vector<int>> dp(n + 1, vector<int>(target + 1, -1));
-        // int ans = (numRollsToTargetMem(n, k, target, dp));
-        // return ans;
+        vector<vector<int>> dp(n + 1, vector<int>(target + 1, -1));
+        int ans = (numRollsToTargetMem(n, k, target, dp));
+        return ans;
 
-        return numRollsToTargetTab(n, k, target);
+        // return numRollsToTargetTab(n, k, target);
     }
 };
