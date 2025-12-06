@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
