@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [1014-k-closest-points-to-origin](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
