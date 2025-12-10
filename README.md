@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Enumeration
 |  |
@@ -372,4 +374,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
