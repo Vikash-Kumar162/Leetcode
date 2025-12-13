@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Enumeration
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3451-string-compression-iii) |
+| [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Database
 |  |
