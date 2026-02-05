@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3379-transformed-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
