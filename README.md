@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0476-number-complement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
