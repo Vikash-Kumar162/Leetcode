@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1923-sentence-similarity-iii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
