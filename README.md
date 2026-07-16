@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3379-transformed-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3447-clear-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
