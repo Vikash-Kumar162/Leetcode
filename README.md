@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
