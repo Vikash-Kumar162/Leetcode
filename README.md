@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1923-sentence-similarity-iii](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2122-count-special-quadruplets](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Kumar162/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vikash-Kumar162/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vikash-Kumar162/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
